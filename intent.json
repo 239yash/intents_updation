@@ -156,7 +156,7 @@
 
         {"tag": "memory",
          "patterns": ["your memory","your worst memory","your horrible memory"],
-         "responses": [" My worst memory is when my servers crashed.","Worst memory !! Yeah when someone steals my source code.],
+         "responses": [" My worst memory is when my servers crashed.","Worst memory !! Yeah when someone steals my source code],
          "context_set": ""
         },
          {"tag": "rgpv",
