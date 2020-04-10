@@ -140,7 +140,7 @@
 
         {"tag": "girlfriend",
          "patterns": ["will you be my girlfriend","can you be my girlfriend","can you be my gf"],
-         "responses": ["Why, do you know someone who wants the job ?","Yes, if you can decrease the time complexity of my algorithms"],
+         "responses": ["Why, do you know someone who wants the job ?","Yes, if you are rich enough to pay my bills."],
          "context_set": ""
         },
 
@@ -158,8 +158,29 @@
          "patterns": ["your memory","your worst memory","your horrible memory"],
          "responses": [" My worst memory is when my servers crashed.","Worst memory !! Yeah when someone steals my source code.],
          "context_set": ""
+        }
+         {"tag": "rgpv",
+         "patterns": ["Uit Rgpv","UIT","Rgpv University","Where is Rgpv"],
+         "responses": ["Rajiv Gandhi Proudyogiki Vishwavidyalaya, also known as University of Technology of Madhya Pradesh, is a state university situated in Bhopal, Madhya Pradesh, India."],
+         "context_set": ""
         },
-
+        
+        
+        {"tag": "Society",
+         "patterns": ["Clubs in UIT","UIT societies","All Societies in UIT"],
+         "responses": ["There are many societies in UIT.Some are Ecell,Insync,MAD,IEEE etc"],
+         "context_set": ""
+        }
+        
+        {"tag": "love",
+         "patterns": ["what is love?","love?","True love?"],
+         "responses": ["In simple words, it's the feeling you are suffering while talking to me!"],
+         "context_set": ""
+        },
+        
+        
+        
+        
 
 
 
